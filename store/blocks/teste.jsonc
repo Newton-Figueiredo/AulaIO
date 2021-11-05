@@ -1,0 +1,12 @@
+{
+    "store.custom#teste":{
+        "blocks": ["rich-text#teste"]
+    },
+
+    "rich-text#teste": {
+        "props": {
+          "text": "## teste",
+          "blockClass": "teste"
+        }
+      }
+}

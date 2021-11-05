@@ -1,6 +1,6 @@
 {
   "vendor": "corebizio",
-  "name": "store-theme",
+  "name": "store-theme-class",
   "version": "4.4.2",
   "builders": {
     "styles": "2.x",
