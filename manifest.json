@@ -63,7 +63,7 @@
     "vtex.tab-layout": "0.x",
     "vtex.condition-layout": "2.x",
     "vtex.css-handles": "1.x",
-    "corebizio.titulodinamico": "0.X"
+    "corebizio.titulodinamico": "1.X"
   },
   "peerDependencies": {
     "vtex.reviews-and-ratings": "2.x"
